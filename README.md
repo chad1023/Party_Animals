@@ -8,6 +8,5 @@
 ![](Game_video.png)
 
 
-
 + Paper:[http://dl.acm.org/citation.cfm?id=3048409](http://dl.acm.org/citation.cfm?id=3048409)
 + Video:[https://www.youtube.com/watch?v=RUDycSyPNZs&feature=youtu.be](https://www.youtube.com/watch?v=RUDycSyPNZs&feature=youtu.be)
