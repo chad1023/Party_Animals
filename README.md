@@ -5,7 +5,7 @@
 
 
 
-
+![](Game_video.png)\
 <div align="center"><img width="65" height="75" src="Game1.png"/></div>
 + Paper:[http://dl.acm.org/citation.cfm?id=3048409](http://dl.acm.org/citation.cfm?id=3048409)
 + Video:[https://www.youtube.com/watch?v=RUDycSyPNZs&feature=youtu.be](https://www.youtube.com/watch?v=RUDycSyPNZs&feature=youtu.be)
